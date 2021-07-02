@@ -1,0 +1,44 @@
+/* You can add global styles to this file, and also import other style files */
+a{
+    text-decoration: none;
+}
+.cardspace{
+    margin: 2% 2% 2% 2%;
+}
+.foot{
+    position: fixed;
+    left: 0;
+   bottom: 0;
+   width: 100%;
+}
+.mainbox{
+    margin: 1% 1% 1% 1%;
+}
+.nbar{
+    position: fixed;
+    top: 0;
+}
+/* image */
+.img{
+    margin: 6% 20% 0% 20%;
+}
+input.ng-invalid.ng-dirty{
+    border-color : red !important;
+    border-width: 2px;
+}
+.cardspace h5{
+    font-weight: bold;
+    font-size: 150%;
+    padding: .5em;
+    color: white;
+    background-color: #34495E;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.wrapper-sthome{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+/*# sourceMappingURL=styles.css.map*/
